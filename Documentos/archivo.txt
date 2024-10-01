@@ -1,0 +1,4 @@
+Eato es un ejemplo de lectura.
+Estamos en la practica 6.
+Solo es un ejemplo de lectura.
+Esta es una prueba de appendText.
